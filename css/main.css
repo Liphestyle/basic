@@ -1610,7 +1610,7 @@
 	}
 
 	body {
-		background: #312450;
+		background: transparent;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -1709,10 +1709,10 @@
 		}
 
 			h1.major:after {
-				background-image: -moz-linear-gradient(to right, #c86944, #f0ab90);
-				background-image: -webkit-linear-gradient(to right, #c86944, #f0ab90);
-				background-image: -ms-linear-gradient(to right, #c86944, #f0ab90);
-				background-image: linear-gradient(to right, #c86944, #f0ab90);
+				background-image: -moz-linear-gradient(to right, transparent, transparent);
+				background-image: -webkit-linear-gradient(to right, transparent, transparent);
+				background-image: -ms-linear-gradient(to right, transparent, transparent;
+				background-image: linear-gradient(to right, transparent, transparent);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
@@ -1913,7 +1913,7 @@
 			-webkit-transition: opacity 0.2s ease, -webkit-transform 0.2s ease;
 			-ms-transition: opacity 0.2s ease, -ms-transform 0.2s ease;
 			transition: opacity 0.2s ease, transform 0.2s ease;
-			background: #ffffff;
+			background: transparent;
 			border-radius: 3em;
 			content: '';
 			height: 100%;
@@ -1963,7 +1963,7 @@
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #ffffff;
+			background-color: transparent;
 			color: #312450 !important;
 		}
 
@@ -2394,7 +2394,7 @@
 		}
 
 	select option {
-		background-color: #312450;
+		background-color: transparent;
 		color: #ffffff;
 	}
 
@@ -2468,7 +2468,7 @@
 
 		input[type="checkbox"]:checked + label:before,
 		input[type="radio"]:checked + label:before {
-			background: #ffffff;
+			background: transparent;
 			border-color: #ffffff;
 			color: #b74e91;
 			content: '\f00c';
@@ -2538,7 +2538,7 @@
 			width: 2.5em;
 			height: 2.5em;
 			display: block;
-			background: #ffffff;
+			background: transparent;
 			border-radius: 100%;
 			color: #312450;
 			text-align: center;
@@ -3851,7 +3851,7 @@
 
 						#sidebar nav a:after {
 							background-image: none;
-							background-color: #b74e91;
+							background-color: transparent;
 						}
 
 		}
