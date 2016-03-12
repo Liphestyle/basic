@@ -1,0 +1,704 @@
+/******************************************************************************************************
+ *            DYNAMIC STYLE FOR style-ec6ea-wbviiawb
+ *                                 	 
+ ******************************************************************************************************/
+	 .master .style-ec6ea-wbviiawb .Body  {
+		
+						font-size: 12px;
+						max-width: 650px;
+						margin-right: 20px;
+						margin-left: 20px;
+						margin-bottom: 10px;
+						line-height: 1.4em;	
+		}
+	 .master .style-ec6ea-wbviiawb .Subtitle  ,  .master .style-ec6ea-wbviiawb .Body h2  { 
+						font-size: 15px;
+						color: rgb(110, 110, 110);
+						max-width: 650px;
+						letter-spacing: 0.1em;
+						margin-right: 20px;
+						margin-top: 15px;
+						margin-left: 20px;
+						margin-bottom: 15px;
+						font-family: Arial;	
+		}
+	 .master .style-ec6ea-wbviiawb .quote-holder  {
+		
+						margin-bottom: 45px;
+						margin-top: 35px;	
+		}
+	 .master .style-ec6ea-wbviiawb .Title  ,  .master .style-ec6ea-wbviiawb .Body h1  { 
+						font-size: 22px;
+						color: rgb(0, 0, 0);
+						max-width: 650px;
+						letter-spacing: 0.05em;
+						margin-right: 20px;
+						margin-top: 30px;
+						margin-left: 20px;
+						font-family: Montserrat;	
+		}
+	 .master .style-ec6ea-wbviiawb .link-wrapper  {
+		
+						max-width: 1058px;	
+		}
+	 .master .style-ec6ea-wbviiawb .Quote  {
+		
+						margin-right: 50px;
+						font-family: 'Times New Roman';
+						font-size: 19px;
+						margin-left: 50px;
+						font-style: italic;	
+		}
+	
+	 .master .style-ec6ea-wbviiawb .quote-author  {
+		
+						font-style: italic;
+						font-size: 19px;
+						color: rgb(124, 124, 124);
+						margin-right: 50px;
+						margin-top: 10px;
+						margin-left: 50px;
+						font-family: 'Times New Roman';	
+		}
+	 .master .style-ec6ea-wbviiawb .title-wrapper  {
+		
+						max-width: 1180px;	
+		}
+	 .master .style-ec6ea-wbviiawb .item-links span  {
+		
+						border-width: 1px;
+						font-size: 13px;
+						color: rgb(0, 0, 0);
+						padding-bottom: 10px;
+						letter-spacing: 0.1em;
+						padding-right: 15px;
+						margin-top: 20px;
+						padding-left: 15px;
+						padding-top: 10px;
+						margin-bottom: 20px;
+						font-family: Arial;
+						background-color: rgba(66, 117, 83, 0);
+						margin-left: 50px;	
+		}
+	 .master .style-ec6ea-wbviiawb .subtitle-wrapper  {
+		
+						max-width: 1180px;	
+		}
+	 .master .style-ec6ea-wbviiawb .body-wrapper  {
+		
+						max-width: 1032px;	
+		}
+	 .style-ec6ea-wbviiawb.master.container > #children  {
+		
+						background-color: rgb(255, 255, 255);	
+		}
+
+/******************************************************************************************************
+ *            UNIQUE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/******************************************************************************************************
+ *            WEBSITE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+
+	
+	
+	
+			.master.container.website-style .master.item-box:not(.custom) .preview-title:not(.custom) , 
+			.master.container.website-style .master.item-box:not(.custom) .blocks-preview-title:not(.custom) { 
+						font-family: jaf-bernino-sans;
+				
+						letter-spacing: 0.0em;
+				
+						line-height: 1.0em;
+					
+		}
+	
+	
+	
+			.master.container.website-style .master.item-box:not(.custom) .preview-element.Link:not(.custom)  {
+		
+						border-radius: 0px;
+					
+		}
+	
+	
+	
+			.master.container.website-style .master.item-box:not(.custom) .preview-subtitle:not(.custom) , 
+			.master.container.website-style .master.item-box:not(.custom) .blocks-preview-subtitle:not(.custom) { 
+						font-family: Arial;
+				
+						letter-spacing: 0.25em;
+				
+						direction: ltr;
+				
+						line-height: 3.4em;
+					
+		}
+	
+	
+	
+			.master.container.website-style .master.item-box:not(.custom) .preview-body:not(.custom) , 
+			.master.container.website-style .master.item-box:not(.custom) .blocks-preview-body:not(.custom) { 
+						font-family: Abel;
+					
+		}
+	
+	
+	
+			body    {
+		
+						background-color: rgb(255, 255, 255);
+					
+		}/******************************************************************************************************
+ *            DYNAMIC STYLE FOR style-ec6ea-kwx0gohz
+ *                                 	 
+ ******************************************************************************************************/
+	 .style-ec6ea-wbviiawb .style-ec6ea-kwx0gohz .background-div  {
+		
+						color: rgb(255, 255, 255);	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-kwx0gohz.master.item-box   {
+		
+						background-color: rgb(0, 0, 0);	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-kwx0gohz .preview-title  ,  .style-ec6ea-wbviiawb .style-ec6ea-kwx0gohz .preview-body h1  { 
+						font-size: 14px;
+						color: rgb(220, 220, 220);
+						letter-spacing: 0em;
+						margin-right: 0px;
+						margin-top: 20px;
+						margin-left: 0px;
+						margin-bottom: 5px;
+						font-family: Oswald;
+						background-color: rgba(11, 11, 11, 0);	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-kwx0gohz .preview-link-img  {
+		
+						width: 30px;
+						margin: 5px;	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-kwx0gohz.master.item-box   {
+		
+						padding-left: 0%;
+						padding-right: 0%;
+						width: 100%;	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-kwx0gohz  .preview-content-holder  {
+		
+						text-align: center;
+						max-width: 500px;
+						margin-right: 30px;
+						margin-top: 40px;
+						margin-left: 30px;
+						margin-bottom: 40px;
+						background-color: rgba(246, 239, 217, 0);	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-kwx0gohz .preview-item-links span  ,  .style-ec6ea-wbviiawb .style-ec6ea-kwx0gohz #sr-basket-widget *  { 
+						color: #ffffff;
+						font-family: Arial;
+						font-size: 13px;	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-kwx0gohz .preview-title-holder  {
+		
+						text-align: left;	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-kwx0gohz .item-content:not(.blocks_layout)  {
+		
+						background-color: rgba(0, 0, 0, 0.62);	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-kwx0gohz .preview-subtitle-holder  {
+		
+						text-align: center;	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-kwx0gohz .preview-body  {
+		
+						color: rgb(104, 104, 104);
+						margin-bottom: 5px;
+						font-size: 14px;
+						background-color: rgba(255, 255, 255, 0);
+						margin-top: 5px;	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-kwx0gohz .preview-element.icon-source  {
+		
+						padding-right: 0px;
+						width: 50px;
+						margin-top: 0px;
+						padding-left: 0px;
+						margin-bottom: 0px;	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-kwx0gohz .preview-social-holder  {
+		
+						margin-bottom: 10px;
+						margin-top: 20px;
+						margin-left: 5px;
+						margin-right: 5px;	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-kwx0gohz .preview-body-holder  {
+		
+						text-align: left;	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-kwx0gohz  .preview-content-wrapper  {
+		
+						text-align: center;	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-kwx0gohz .stripe-background  {
+		
+						margin-left: 0%;	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-kwx0gohz .middle_layout .helper-div  ,  .style-ec6ea-wbviiawb .style-ec6ea-kwx0gohz .multi_layout .helper-div.middle-center .text-side  { 
+						max-width: 1000px;	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-kwx0gohz .preview-subtitle  ,  .style-ec6ea-wbviiawb .style-ec6ea-kwx0gohz .preview-body h2  { 
+						font-family: Arial;
+						font-size: 12px;
+						color: rgb(142, 142, 142);
+						letter-spacing: 0.0em;
+						margin-right: 0px;
+						margin-top: 5px;
+						margin-left: 0px;
+						line-height: 1.2em;
+						background-color: rgba(0, 0, 0, 0);	
+		}
+
+/******************************************************************************************************
+ *            UNIQUE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/******************************************************************************************************
+ *            WEBSITE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+/******************************************************************************************************
+ *            DYNAMIC STYLE FOR style-ec6ea-ywj7pubm
+ *                                 	 
+ ******************************************************************************************************/
+	 .style-ec6ea-wbviiawb .style-ec6ea-ywj7pubm  .preview-content-holder  {
+		
+						margin-right: 0px;
+						padding-bottom: 0px;
+						text-align: left;
+						max-width: 600px;
+						padding-right: 0px;
+						margin-top: 30px;
+						margin-left: 0px;
+						padding-top: 0px;
+						margin-bottom: 30px;
+						background-color: rgba(230, 210, 80, 0);
+						padding-left: 0px;	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-ywj7pubm .item-content:not(.blocks_layout)  {
+		
+						background-color: rgba(0, 0, 0, 0);	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-ywj7pubm .preview-divider  {
+		
+						border-style: solid;
+						border-color: rgb(255, 255, 255);
+						border-bottom-width: 1px;
+						margin-top: 10px;
+						margin-bottom: 10px;
+						width: 15%;	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-ywj7pubm .inner-pic  {
+		
+						opacity: 0.9;
+						color: rgb(255, 255, 255);
+		    			-webkit-filter: brightness(0.8);filter:url(data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+DQogPGZpbHRlciBpZD0iYnJpZ2h0bmVzcyI+DQogICAgPGZlQ29tcG9uZW50VHJhbnNmZXI+DQogICAgICAgPGZlRnVuY1IgdHlwZT0ibGluZWFyIiBzbG9wZT0iMC44Ii8+DQogICAgICAgPGZlRnVuY0cgdHlwZT0ibGluZWFyIiBzbG9wZT0iMC44Ii8+DQogICAgICAgPGZlRnVuY0IgdHlwZT0ibGluZWFyIiAgc2xvcGU9IjAuOCIvPg0KICAgIDwvZmVDb21wb25lbnRUcmFuc2Zlcj4NCiAgPC9maWx0ZXI+DQo8L3N2Zz4=#brightness);	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-ywj7pubm .preview-subtitle-holder  {
+		
+						max-width: 650px;	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-ywj7pubm .multi_layout .helper-div.middle-center .pic-side  {
+		
+						margin-left: -6%;	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-ywj7pubm .multi_layout .helper-div.middle-center  {
+		
+						padding-left: 6%;
+						padding-right: 6%;
+						width: 88%;	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-ywj7pubm .background-div  {
+			
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-ywj7pubm.master.item-box   {
+		
+						background-color: rgb(0, 0, 0);	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-ywj7pubm .preview-title  ,  .style-ec6ea-wbviiawb .style-ec6ea-ywj7pubm .preview-body h1  { 
+						font-family: 'Playfair Display';
+						font-size: 43px;
+						color: rgb(255, 255, 255);
+						letter-spacing: 0.0em;
+						margin-top: 10px;
+						margin-bottom: 10px;
+						line-height: 1.1em;
+						background-color: rgba(255, 255, 255, 0);	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-ywj7pubm .preview-item-links span  ,  .style-ec6ea-wbviiawb .style-ec6ea-ywj7pubm #sr-basket-widget *  { 
+						font-family: Arial;
+						font-size: 10px;
+						text-transform: uppercase;
+						color: rgb(255, 255, 255);
+						padding-bottom: 15px;
+						border-color: rgba(0, 0, 0, 0);
+						letter-spacing: 0.1em;
+						margin-right: 5px;
+						margin-top: 15px;
+						padding-left: 20px;
+						border-radius: 22px;
+						padding-top: 15px;
+						margin-bottom: 10px;
+						border-width: 0px;
+						background-color: rgb(125, 34, 34);
+						padding-right: 20px;
+						margin-left: 5px;	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-ywj7pubm .stripe-background  {
+		
+						opacity: 0.61;	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-ywj7pubm .preview-element.icon-source  {
+		
+						width: 90px;
+						margin-bottom: 15px;	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-ywj7pubm .background-image-div  {
+		
+						color: rgb(255, 255, 255);
+						opacity: 1;	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-ywj7pubm .preview-link-img  {
+		
+						width: 35px;
+						margin: 8px;	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-ywj7pubm .preview-icon-holder  {
+		
+						margin-bottom: 40px;	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-ywj7pubm .preview-body-holder  {
+		
+						max-width: 800px;	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-ywj7pubm  .preview-content-wrapper  {
+		
+						text-align: left;
+						vertical-align: middle;	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-ywj7pubm .preview-item-links span:hover  ,  .style-ec6ea-wbviiawb .style-ec6ea-ywj7pubm .preview-element.Link.hover-tester  { 
+						color: rgb(255, 255, 255);
+						background-color: rgb(0, 0, 0);	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-ywj7pubm .inner-pic-holder  {
+		
+						background-color: rgb(0, 0, 0);	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-ywj7pubm .preview-item-links span:before  ,  .style-ec6ea-wbviiawb .style-ec6ea-ywj7pubm .effect-tester  { 
+						background-color: rgb(0, 0, 0);	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-ywj7pubm .middle_layout .helper-div  ,  .style-ec6ea-wbviiawb .style-ec6ea-ywj7pubm .multi_layout .helper-div.middle-center .text-side  { 
+						max-width: 1000px;	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-ywj7pubm .preview-body  {
+		
+						font-family: Arial;
+						font-size: 15px;
+						color: rgb(255, 255, 255);
+						max-width: 1000px;
+						margin-top: 10px;
+						margin-bottom: 30px;
+						line-height: 1.6em;	
+		}
+	
+	 .style-ec6ea-wbviiawb .style-ec6ea-ywj7pubm .preview-social-holder  {
+		
+						margin-bottom: 10px;
+						margin-top: 10px;	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-ywj7pubm .pic-side:after  ,  .style-ec6ea-wbviiawb .style-ec6ea-ywj7pubm .item-effect-tester  ,  .style-ec6ea-wbviiawb .style-ec6ea-ywj7pubm .sub.item-box:after  { 
+						background-color: rgb(125, 34, 34);	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-ywj7pubm .preview-subtitle  ,  .style-ec6ea-wbviiawb .style-ec6ea-ywj7pubm .preview-body h2  { 
+						line-height: 1.4em;
+						font-size: 14px;
+						text-transform: uppercase;
+						color: rgb(255, 255, 255);
+						letter-spacing: 0.2em;
+						margin-right: 0px;
+						margin-top: 5px;
+						margin-left: 0px;
+						margin-bottom: 10px;
+						font-family: Abel;	
+		}
+
+/******************************************************************************************************
+ *            UNIQUE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+ .style-ec6ea-ywj7pubm #vbid-ec6ea-aywx1trv .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-ec6ea-ywj7pubm #vbid-ec6ea-wsafux3i .preview-content-holder{
+				
+							text-align : left;
+					
+				}
+
+
+ .style-ec6ea-ywj7pubm #vbid-ec6ea-d8naoffw.inner-pic{
+				
+							background-size : contain;
+					
+							background-position : 50% 50%;
+					
+				} .style-ec6ea-ywj7pubm #vbid-ec6ea-gg08pjkc.inner-pic{
+				
+							background-position : 51.7764% 40.3226%;
+					
+				} .style-ec6ea-ywj7pubm #vbid-ec6ea-rutt5jeq.inner-pic{
+				
+							background-position : 48.2968368530273% 17.8304233551025%;
+					
+				} .style-ec6ea-ywj7pubm #vbid-ec6ea-qejivbzw.inner-pic{
+				
+							background-size : cover;
+					
+							background-position : 29% 19%;
+					
+				} .style-ec6ea-ywj7pubm #vbid-ec6ea-wkv5l7jq.inner-pic{
+				
+							background-position : 47.0449% 12.9383%;
+					
+				} .style-ec6ea-ywj7pubm #vbid-ec6ea-frfdwjku.inner-pic{
+				
+							background-position : 40.6865% 31.5728%;
+					
+				} .style-ec6ea-ywj7pubm #vbid-ec6ea-snhaizqj.inner-pic{
+				
+							background-size : 143%;
+					
+				} .style-ec6ea-ywj7pubm #vbid-ec6ea-kxpodxqd.inner-pic{
+				
+							background-size : cover;
+					
+							background-position : 31.5622% 47.7852%;
+					
+				}
+
+
+
+
+
+
+
+
+
+
+
+
+
+ .style-ec6ea-ywj7pubm #vbid-ec6ea-aywx1trv .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-ec6ea-ywj7pubm #vbid-ec6ea-wsafux3i .preview-content-wrapper{
+				
+							text-align : left;
+					
+				}
+
+
+
+
+
+
+
+
+
+
+
+
+/******************************************************************************************************
+ *            WEBSITE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+/******************************************************************************************************
+ *            DYNAMIC STYLE FOR style-ec6ea-7qqtfnyb
+ *                                 	 
+ ******************************************************************************************************/
+	 .style-ec6ea-wbviiawb .style-ec6ea-7qqtfnyb.master.item-box   {
+		
+						position: absolute;
+						background-color: rgba(0, 0, 0, 0);	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-7qqtfnyb .preview-item-links span:hover  ,  .style-ec6ea-wbviiawb .style-ec6ea-7qqtfnyb .preview-element.Link.hover-tester  { 
+						color: rgb(0, 0, 0);
+						background-color: rgba(147, 147, 147, 0);	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-7qqtfnyb .preview-item-links span:before  ,  .style-ec6ea-wbviiawb .style-ec6ea-7qqtfnyb .effect-tester  { 
+						background-color: rgb(181, 181, 181);	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-7qqtfnyb.master.item-box   {
+		
+						padding-left: 6%;
+						width: 88%;
+						padding-right: 6%;	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-7qqtfnyb .preview-item-links  {
+		
+						text-align: center;	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-7qqtfnyb  .preview-content-holder  {
+		
+						border-color: rgb(214, 214, 214);
+						max-width: 2000px;
+						margin-right: 0px;
+						margin-top: 0px;
+						margin-left: 0px;
+						background-color: rgba(0, 0, 0, 0);
+						text-align: left;	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-7qqtfnyb .preview-item-links span  ,  .style-ec6ea-wbviiawb .style-ec6ea-7qqtfnyb #sr-basket-widget *  { 
+						font-size: 12px;
+						text-transform: uppercase;
+						color: rgb(0, 0, 0);
+						padding-bottom: 20px;
+						border-color: rgba(255, 255, 255, 0.670588);
+						letter-spacing: 0.2em;
+						max-width: 1150px;
+						padding-right: 10px;
+						padding-left: 10px;
+						padding-top: 20px;
+						font-family: Abel;
+						background-color: rgba(255, 255, 255, 0);	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-7qqtfnyb .preview-title  ,  .style-ec6ea-wbviiawb .style-ec6ea-7qqtfnyb .preview-body h1  { 
+						font-size: 16px;
+						color: rgb(232, 232, 232);
+						letter-spacing: 0.05em;
+						font-weight: bold;
+						margin-left: 10px;
+						font-family: Raleway;
+						background-color: rgba(255, 255, 255, 0);	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-7qqtfnyb .preview-title-holder  {
+		
+						text-align: left;	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-7qqtfnyb .preview-divider  {
+		
+						border-bottom-width: 1px;
+						width: 10%;	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-7qqtfnyb .item-content:not(.blocks_layout)  {
+		
+						background-color: rgba(244, 203, 74, 0);	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-7qqtfnyb .preview-subtitle-holder  {
+		
+						text-align: left;	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-7qqtfnyb .stripe-background  {
+		
+						margin-left: -6%;	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-7qqtfnyb .preview-element.icon-source  {
+		
+						color: rgb(0, 0, 0);
+						margin-bottom: 0px;
+						margin-top: 0px;
+						width: 70px;	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-7qqtfnyb  .preview-content-wrapper  {
+		
+						vertical-align: bottom;
+						text-align: left;	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-7qqtfnyb .middle_layout .helper-div  ,  .style-ec6ea-wbviiawb .style-ec6ea-7qqtfnyb .multi_layout .helper-div.middle-center .text-side  { 
+						max-width: 1000px;	
+		}
+	 .style-ec6ea-wbviiawb .style-ec6ea-7qqtfnyb .preview-subtitle  ,  .style-ec6ea-wbviiawb .style-ec6ea-7qqtfnyb .preview-body h2  { 
+						font-size: 12px;
+						color: rgb(152, 152, 152);
+						letter-spacing: 0.05em;
+						margin-right: 0px;
+						margin-top: 5px;
+						margin-left: 10px;
+						font-family: Arial;	
+		}
+
+/******************************************************************************************************
+ *            UNIQUE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/******************************************************************************************************
+ *            WEBSITE STYLE
+ *                                 	 
+ ******************************************************************************************************/
